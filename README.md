@@ -1,5 +1,5 @@
 ## 11Slider
-tiny ES6 slider with minimal size (2.8kb and 1.1 in gzip)
+tiny ES6 slider with minimal size (2.8kb and 1.1 in gzip) and touch support.
 
 ![Example](https://i.imgur.com/sR1y4Li.png)
 
